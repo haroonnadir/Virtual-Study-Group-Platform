@@ -44,4 +44,5 @@ features and functionalities as the business grows.
 • Usability: The solution will be designed to be user-friendly and intuitive,
 ensuring that customers and bakery owners can easily navigate the system and
 complete their tasks.
+<br>
 Tools: ASP.NET, C#, SQL Server, PHP, MYSQL
