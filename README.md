@@ -1,5 +1,5 @@
-Project Domain / Category
-Web Application
+Project Domain / Category <br>
+Web Application<br>
 Abstract/Introduction
 The proposed project aims to develop an efficient Virtual Study Group Platform aims to facilitate collaboration among students by providing a web-based solution for organizing and participating in study groups. This platform will enable students to create groups, schedule study sessions, share resources, and engage in discussions, enhancing their learning
 experience and promoting effective teamwork. The solution will have both an Admin view and
