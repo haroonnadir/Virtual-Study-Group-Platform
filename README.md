@@ -1,19 +1,13 @@
 Project Domain / Category <br>
 Web Application<br>
-Abstract/Introduction
-The proposed project aims to develop an efficient Virtual Study Group Platform aims to facilitate collaboration among students by providing a web-based solution for organizing and participating in study groups. This platform will enable students to create groups, schedule study sessions, share resources, and engage in discussions, enhancing their learning
-experience and promoting effective teamwork. The solution will have both an Admin view and
-a User view, ensuring that both can access the features and functionalities that they require.
-This web application will be developed using ASP.NET / PHP as the front end and SQL Server /
-MYSQL as the back-end. The database management system will store all necessary information
-about the items and their related information.
+Abstract/Introduction<br>
+The proposed project aims to develop an efficient Virtual Study Group Platform aims to facilitate collaboration among students by providing a web-based solution for organizing and participating in study groups. This platform will enable students to create groups, schedule study sessions, share resources, and engage in discussions, enhancing their learning experience and promoting effective teamwork. The solution will have both an Admin view and a User view, ensuring that both can access the features and functionalities that they require.
+This web application will be developed using ASP.NET / PHP as the front end and SQL Server / MYSQL as the back-end. The database management system will store all necessary information about the items and their related information.<br>
+
 Functional Requirements:
-1. User Authentication: The system should provide secure registration and login system
-along with profile management with study preferences.
+1. User Authentication: The system should provide secure registration and login system along with profile management with study preferences.
 2. User Views
-• Group Management: The system should provide an interface to create and join
-study groups easily. It should also provide an effective mechanism to manage
-group members and their rols.
+• Group Management: The system should provide an interface to create and join study groups easily. It should also provide an effective mechanism to manage group members and their rols.
 • Scheduling: The developed system should be capable of scheduling study
 sessions with automated reminders. Integration with Google Calendar is also
 required.
