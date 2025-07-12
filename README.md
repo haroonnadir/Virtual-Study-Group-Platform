@@ -5,25 +5,20 @@ The proposed project aims to develop an efficient Virtual Study Group Platform a
 <hr>
 Functional Requirements: <br>
 1. User Authentication: The system should provide secure registration and login system along with profile management with study preferences.
+<br>
 2. User Views
 • Group Management: The system should provide an interface to create and join study groups easily. It should also provide an effective mechanism to manage group members and their rols.
-• Scheduling: The developed system should be capable of scheduling study
-sessions with automated reminders. Integration with Google Calendar is also
-required.
+• Scheduling: The developed system should be capable of scheduling study sessions with automated reminders. Integration with Google Calendar is also required.
 • Resource Sharing: The system should provide a convenient interface to upload
-and share study materials and notes. It should also provide facility to organize
-resources by topics or subjects.
-• Communication Tools: The platform should provide discussion boards for
-asynchronous communication.
-• Notifications: The should be capable of sending alerts for scheduled sessions and
-new resources.
-3. Admin View <br>
-• User Management: The platform should can approve or deny user registrations.
-It should also monitor user activity and group interactions.
-• Content Moderation: The system should review and manage shared resources
-and discussions.
-• Reporting: The system should generate reports on platform usage and
-engagement metrics.
+and share study materials and notes. It should also provide facility to organize resources by topics or subjects.
+• Communication Tools: The platform should provide discussion boards for asynchronous communication.
+• Notifications: The should be capable of sending alerts for scheduled sessions and new resources.
+
+<br>
+3. Admin View <br><br>
+• User Management: The platform should can approve or deny user registrations. It should also monitor user activity and group interactions.
+• Content Moderation: The system should review and manage shared resources and discussions.
+• Reporting: The system should generate reports on platform usage and engagement metrics.
 • System Configuration: The system should also be capable of managing platform
 settings and integrations.
 Non-Functional Requirements:
